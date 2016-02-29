@@ -1,0 +1,28 @@
+name: pixelwerk
+favicon: null
+layout_spectrum: 0.7735333412420005
+typography_spectrum: 0.7626850905362517
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.6682949957903475
+  lightness: 0.8609254811890423
+  saturation: 0.7069188694003969
+  rhythmicContrast: 0.5914853750728071
+purpose: []
